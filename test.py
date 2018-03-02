@@ -4,6 +4,8 @@ import os
 import sys
 import shutil
 
+#new line
+
 forgeRoot = sys.argv [1]
 
 root = et.parse (forgeRoot + ".classpath")
