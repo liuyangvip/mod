@@ -8,6 +8,8 @@ import shutil
 
 forgeRoot = sys.argv [1]
 
+aaa
+
 root = et.parse (forgeRoot + ".classpath")
 classpath = forgeRoot + "bin"
 
